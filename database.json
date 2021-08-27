@@ -71,6 +71,16 @@
             "id": 2,
             "name": "Rose Schmitt",
             "specialty": "Printers"
+        },
+        {
+            "id": 3,
+            "name": "Joe Bazooka",
+            "specialty": "fixing stuff"
+        },
+        {
+            "id": 4,
+            "name": "Elon Musk",
+            "specialty": "inventing stuff"
         }
     ],
     "serviceTickets": [
